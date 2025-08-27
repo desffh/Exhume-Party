@@ -1071,5 +1071,5 @@ AssetOrigin:
   productId: 189511
   packageName: Battle Royale Hero PBR
   packageVersion: 1.1
-  assetPath: Assets/BattleRoyaleHeroesPBR/Mesh/DefaultCharacterWithTPose.fbx
+  assetPath: Assets/AssetPackage/BattleRoyaleHeroesPBR/Mesh/DefaultCharacterWithTPose.fbx
   uploadId: 458579

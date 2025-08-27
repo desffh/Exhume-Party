@@ -1070,5 +1070,5 @@ AssetOrigin:
   productId: 189511
   packageName: Battle Royale Hero PBR
   packageVersion: 1.1
-  assetPath: Assets/BattleRoyaleHeroesPBR/Mesh/DefaultCharacterMesh.fbx
+  assetPath: Assets/AssetPackage/BattleRoyaleHeroesPBR/Mesh/DefaultCharacterMesh.fbx
   uploadId: 458579

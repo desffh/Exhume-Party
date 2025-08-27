@@ -164,5 +164,5 @@ AssetOrigin:
   productId: 189511
   packageName: Battle Royale Hero PBR
   packageVersion: 1.1
-  assetPath: Assets/BattleRoyaleHeroesPBR/Mesh/Weapon/Shotgun.fbx
+  assetPath: Assets/AssetPackage/BattleRoyaleHeroesPBR/Mesh/Weapon/Shotgun.fbx
   uploadId: 458579

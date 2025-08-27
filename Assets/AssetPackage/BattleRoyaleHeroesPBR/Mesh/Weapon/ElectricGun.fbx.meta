@@ -139,5 +139,5 @@ AssetOrigin:
   productId: 189511
   packageName: Battle Royale Hero PBR
   packageVersion: 1.1
-  assetPath: Assets/BattleRoyaleHeroesPBR/Mesh/Weapon/ElectricGun.fbx
+  assetPath: Assets/AssetPackage/BattleRoyaleHeroesPBR/Mesh/Weapon/ElectricGun.fbx
   uploadId: 458579

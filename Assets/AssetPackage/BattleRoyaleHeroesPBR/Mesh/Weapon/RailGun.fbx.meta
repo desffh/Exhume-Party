@@ -193,5 +193,5 @@ AssetOrigin:
   productId: 189511
   packageName: Battle Royale Hero PBR
   packageVersion: 1.1
-  assetPath: Assets/BattleRoyaleHeroesPBR/Mesh/Weapon/RailGun.fbx
+  assetPath: Assets/AssetPackage/BattleRoyaleHeroesPBR/Mesh/Weapon/RailGun.fbx
   uploadId: 458579

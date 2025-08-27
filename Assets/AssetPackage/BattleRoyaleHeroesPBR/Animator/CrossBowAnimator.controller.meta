@@ -11,5 +11,5 @@ AssetOrigin:
   productId: 189511
   packageName: Battle Royale Hero PBR
   packageVersion: 1.1
-  assetPath: Assets/BattleRoyaleHeroesPBR/Animator/CrossBowAnimator.controller
+  assetPath: Assets/AssetPackage/BattleRoyaleHeroesPBR/Animator/CrossBowAnimator.controller
   uploadId: 458579
